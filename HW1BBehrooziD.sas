@@ -1,9 +1,3 @@
-/*********************************************/
-/* STAT 330, Fall 2022						 */
-/* Homework #1B								 */
-/* Donya Behroozi and Grace Trenholme		 */
-/*********************************************/
-
 *1a;
 
 data vaccineTemp; 
